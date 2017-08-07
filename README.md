@@ -4,5 +4,5 @@ Bu proje ile Masaüstü ve Mobil olmak üzere iki ayrı robots.txt dosyası olu�
 
 Author: Emre KARAKAYA
 
-Website: [Emre Karakaya Bir Garip Webmaster](https://www.emrekarakaya.com.tr){:target="_blank"}
+Website: [Emre Karakaya Bir Garip Webmaster](https://www.emrekarakaya.com.tr)
 
