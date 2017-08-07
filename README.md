@@ -4,7 +4,7 @@ Bu proje ile Masaüstü ve Mobil olmak üzere iki ayrı robots.txt dosyası olu�
 
 ## Kurulum
 
-Dosyaları Ftp hesabınıza attığınız zaman otomatik çalışacaktır.
+Dosyaları Ftp hesabınıza attığınız zaman otomatik çalışacaktır. 
 
 Author: Emre KARAKAYA
 
