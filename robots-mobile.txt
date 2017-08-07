@@ -1,6 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.emrekarakaya.com.tr/sitemap.xml
-Sitemap: https://www.emrekarakaya.com.tr/sitemap-mobile.xml
+Mobil Robots.txt kodlarý buraya gelecek...
